@@ -1,5 +1,4 @@
-link to my website: https://github.com/birajrai100/base-apparel.git
-
+link to my website: https://birajrai100.github.io/base-apparel/
 # Frontend Mentor - Base Apparel coming soon page
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
